@@ -1,0 +1,83 @@
+baseURL = "https://yeekayau.github.io"
+title = "Yeeka Yau"
+languageCode = "en"
+enableInlineShortcodes = true
+
+summarylength = 10
+enableEmoji = true
+
+[params]
+author = "Yeeka Yau"
+#description = "Lecturer in the School of Mathematics and Statistics at the University of Sydney"
+
+## Set one of:
+profilePicture = "images/test.png"
+
+copyright = "Yeeka Yau"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+
+## Set custom theme color.
+themeColor = "#454651"
+
+## Set custom CSS and/or JS to override site defaults.
+customCss = ["css/hyde.css"]
+customJs = ["js/blog.js"]
+
+## Google Analytics
+googleAnalytics = "G-L4T9TB4QSQ"
+
+  ## Set as many as you want.
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/yeeka-yau-745939204/"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://github.com/yeekayau"
+
+[menu]
+
+  #[[menu.main]]
+  #name = "Blog"
+  #weight = 100
+  #identifier = "posts"
+  #url = "/posts/"
+
+  [[menu.main]]
+  name = "Teaching"
+  identifier = "teaching"
+  weight = 300
+  url = "/teaching/"
+
+  [[menu.main]]
+  name = "Research"
+  identifier = "research"
+  weight = 300
+  url = "/research/"
+
+  [[menu.main]]
+  name = "Code"
+  identifier = "code"
+  weight = 300
+  url = "/code/"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true # if false, you need to provide you own custom CSS
+  style = "monokai"
+  tabWidth = 4
