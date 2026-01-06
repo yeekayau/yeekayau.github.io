@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme on Yeeka Yau</title>
-    <link>http://localhost:1313/tags/theme/</link>
+    <link>https://yeekayau.github.io/tags/theme/</link>
     <description>Recent content in Theme on Yeeka Yau</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yeekayau.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Soho Theme</title>
-      <link>http://localhost:1313/post/soho/</link>
+      <link>https://yeekayau.github.io/post/soho/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/soho/</guid>
+      <guid>https://yeekayau.github.io/post/soho/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/alexandrevicenzi/soho&#34;&gt;Soho&lt;/a&gt; is a minimalist two-column &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt; theme based on &lt;a href=&#34;https://github.com/spf13/hyde&#34;&gt;Hyde&lt;/a&gt; and inspired by the success of &lt;a href=&#34;https://github.com/alexandrevicenzi/Flex&#34;&gt;Flex&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
