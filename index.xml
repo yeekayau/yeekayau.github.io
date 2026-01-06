@@ -6,8 +6,15 @@
     <description>Recent content on Yeeka Yau</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;p&gt;My primary professional focus as an Education Focused lecturer is to provide outstanding mathematics and statistics instruction and to enrich students&amp;rsquo; learning journey in mathematics and statistics courses.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Research</title>
       <link>http://localhost:1313/research/</link>
@@ -21,13 +28,6 @@
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/code/</guid>
       <description>&lt;p&gt;Here is a small collection of some code and web applications I have written for various teaching and research projects.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/</guid>
-      <description>&lt;p&gt;My primary professional focus as an Education Focused lecturer is to provide outstanding mathematics and statistics instruction and to enrich students&amp;rsquo; learning journey in mathematics and statistics courses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Soho Theme</title>
